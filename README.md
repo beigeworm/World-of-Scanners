@@ -1,2 +1,2 @@
 # World-of-Scanners
-A repository of various scanners written in powershe
+A repository of various scanners written in Powershell and Python
